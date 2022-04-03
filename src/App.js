@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+import { Routes } from 'react-router-dom';
 import './App.css';
+import Header from './Components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-        <h1>bikers mania</h1>
+      <Header></Header>
+      <Routes>
+          
+      </Routes>
     </div>
   );
 }
