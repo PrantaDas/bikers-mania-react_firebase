@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div className='flex justify-center items-center h-20 bg-slate-200  md:justify-between px-12 py-8 sticky top-0 max-w-full'>
+        <div className='flex justify-center items-center h-20 bg-gray-200 md:justify-between px-12 py-8 sticky top-0 max-w-full'>
 
             <div className='hidden md:block'>
                 <Link className='text-xl font-bold italic font-sans text-gray-500' to='/'>Bikers Mania!!!</Link>
