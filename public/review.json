@@ -1,38 +1,44 @@
 [
     {
       "_id": "6249ece86b23391efb3eae09",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Paulette Skinner"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "It's amazing bike nice looking and good performance,it has a very good outer look.The turbo engine gives it more power than  other",
+      "name": "Paulette Skinner",
+      "rating":"4"
     },
     {
       "_id": "6249ece8c58c4af26c0e77b9",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Raquel Benson"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "As compare to other ev bikes in india oben rorr stands above all under 1.5 lakh price segment.As range is good and looks ",
+      "name": "Raquel Benson",
+      "rating":"4.7"
     },
     {
       "_id": "6249ece8422698afd4bad12a",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Hudson Sims"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "This brand is new but it's get all features in one bike.Milage, Looks, Comfort etc all are in very very cheapest price.So its unbelievable.",
+      "name": "Hudson Sims",
+      "rating":"4.2"
     },
     {
       "_id": "6249ece87a14cb8077e76cee",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Martinez Saunders"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "Super performance Nice mileage, Save money, This oben ev first electric power full bike.My experience is very best",
+      "name": "Martinez Saunders",
+      "rating":"4.4"
     },
     {
       "_id": "6249ece85be1a4d067b54eb6",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Armstrong Farley"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "This bike is a most protected bike because it have a theft protection system that is really cool and it looks very awesome i can't wait for my 18 th birthday now",
+      "name": "Armstrong Farley",
+      "rating":"4.1"
     },
     {
       "_id": "6249ece8a469837817bee3cc",
-      "picture": "http://placehold.it/32x32",
-      "review": "",
-      "name": "Tamra Guerra"
+      "picture": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R68006103&ga=GA1.2.1560483595.1628615513",
+      "review": "I like the style of this bike.It has great features, Its price is average and anyone can buy.The colour choices is best.And this is the future of bike.",
+      "name": "Tamra Guerra",
+      "rating":"4.7"
     }
   ]
