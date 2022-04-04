@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Live site link of the project is given below
-[https://playful-alfajores-13e073.netlify.app/]
+#### Live site: [https://playful-alfajores-13e073.netlify.app/]
 
 ## Some Features of the project is :
 * The user can visit any features through the navigation bar
