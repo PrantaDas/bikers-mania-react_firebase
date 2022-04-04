@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Bikers Mania
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Live site link of the project is given below\
+
+
+##Some Features of the project is :\
+*The user can visit any features through the navigation bar\
+*As its a REACT SPA application the page won't be reloaded while navigating\
+*The user can see the product review through REVIEWS section in the header\
+*The user can also see our statistics in the DASBOARD\
+*The user can see the recent uploaded blogs in the BLOG section\
 
 ## Available Scripts
 
