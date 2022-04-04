@@ -19,7 +19,7 @@ const Home = () => {
                         our improvement
                     </h1>
                     <p className='text-left max-w-2xl'>
-                        Your constructive feedback is really important to us.This helps us to improve our product quality and better customer policy.Considering your opinion on the products our quality management team continiously working to provide you with better experiencs.As long as your satisfaction become fulfil ,we will continue this bridge of interaction between you and us.
+                        Your constructive feedback is really important to us.This helps us to improve our product quality and better customer policy.Considering your opinion on the products our quality management team continiously working to provide you with better experiencs.Untill your satisfaction become fulfil ,we will continue this bridge of interaction between you and us.
                     </p>
                     <div>
                         <button className="rounded-lg bg-blue-300 p-3">LIVE DEMO</button>

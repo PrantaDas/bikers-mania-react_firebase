@@ -10,9 +10,9 @@ const RiviewInfo = (props) => {
                 </div>
             </div>
             <div className='flex flex-col items-start text-left ml-5'>
-                <p className='p-1'>Name:{name}</p>
-                <p className='p-1'>Review:{review}</p>
-                <p className='p-1'>Rating:{rating}<i className="fa-solid fa-star"></i></p>
+                <p className='p-1'><span className='font-bold text-sky-500'>Rating:</span>{name}</p>
+                <p className='p-1'><span className='font-bold text-sky-500'>Rating:</span>{review}</p>
+                <p className='p-1'><span className='font-bold text-sky-500'>Rating:</span>{rating}<i className="fa-solid fa-star"></i></p>
             </div>
         </div>
     );
